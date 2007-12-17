@@ -17,7 +17,6 @@ Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	dos2unix
 BuildRequires:	recode
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 This package helps you to encode and decode punycode strings easily.
