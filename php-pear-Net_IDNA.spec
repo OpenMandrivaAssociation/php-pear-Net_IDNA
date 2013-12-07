@@ -5,7 +5,7 @@
 Summary:	Punycode encoding and decoding
 Name:		php-pear-%{modname}
 Version:	0.8.1
-Release:	4
+Release:	5
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Net_IDNA/
