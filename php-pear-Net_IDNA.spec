@@ -8,7 +8,7 @@ Version:	0.8.1
 Release:	14
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Net_IDNA/
+Url:		https://pear.php.net/package/Net_IDNA/
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
